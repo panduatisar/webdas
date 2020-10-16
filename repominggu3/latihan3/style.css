@@ -1,0 +1,89 @@
+body{
+	background-color: #FFFFFF;
+}
+
+.header{
+	background: #F3F1EC;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: center;
+	width: 1000px;
+	height: 25px;
+}
+
+.isi {
+	background: #F3F1EC;
+	width: 1000px;
+	height: 520px;
+	float: center;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+}
+
+.pp {
+	background-color: #FFFFFF;
+	margin-left: 80px;
+	margin-top: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	padding-right: 3px;
+	float: left;
+	text-align: left;
+	width: 210px;
+	height: 300px;
+}
+
+.bio {
+	background-color: #FFFFFF;
+	float: left;
+	text-align: left;
+	width: 300px;
+	margin-left: 20px;
+	margin-bottom: 0;
+}
+
+.isikrs {
+	background: #F3F1EC;
+	width: 1000px;
+	height: 400px;
+	float: center;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	padding-top: 1px;
+	padding-bottom: 50px;
+}
+
+.krs {
+	background-color: #FFFFFF;
+	float: center;
+	width: 760px;
+	height: 350px;
+	margin-bottom: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-bottom: auto;
+	padding-left: 10px;
+	padding-right: auto;
+	
+}
+
+#tb{
+	background-color: #F3F1EC;
+	font-family: Arial;
+}
+
+#tkrs{
+	font-family: Arial;
+	font-size: 15;
+	border-color: white;
+}
